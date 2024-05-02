@@ -1,0 +1,27 @@
+.signIn{
+   
+    width: 50%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    /* border: 22px solid gray; */
+}
+.input{
+    width: 50%;
+    border-radius: 5px;
+    height: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.forgot{
+    display: flex;
+    align-items: flex-end;
+}
+button{
+    width: 100%;
+    margin-top: 10px;
+}
